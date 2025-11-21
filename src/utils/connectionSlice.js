@@ -9,4 +9,4 @@ const connectionSlice = createSlice({
 });
 
 export const { addConnections } = connectionSlice.actions;
-export default connectionSlice.reducer; 
+export default connectionSlice.reducer;
